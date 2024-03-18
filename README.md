@@ -1,8 +1,8 @@
 ﻿# final-countdown-game
-##About the Project
+## About the Project
 "The Almost Final Countdown" is an interactive game built using React.js that challenges players to stop the timer once they estimate that time is (almost) up. The game is designed to test players' reflexes and precision, providing an engaging experience using React's ref system and portals for efficient rendering.
 
-##How to Play
+## How to Play
 1.Clone or download the repository.
 2.Install dependencies using npm install or yarn install.
 3.Start the application with npm run dev or yarn start.
